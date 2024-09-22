@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lory9098" alt="lory9098" /></a> </p>
 
-- 🔭 I’m currently working on everything that you are playing 😎
+- 🔭 I’m currently working on...nothing?
 
 - 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lory9098?tab=repositories](https://github.com/Lory9098?tab=repositories)
 
-- 📫 How to reach me **smodev_ or @HikariConfig**
+- 📫 How to reach me **smodev or @HikariDataSource**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
