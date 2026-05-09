@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SmoDev_</h1>
+<h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lory9098&label=Profile%20views&color=0e75b6&style=flat" alt="lory9098" /> </p>
